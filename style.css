@@ -1,0 +1,27 @@
+
+.home-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+
+}
+.btn{
+    background-color: #ff2379;
+    color: white;
+    border-radius: 10px;
+}
+.color-pink{
+    color: #ff2379;
+}
+
+.bg-watch{
+    background-color:#ffa500 ;
+    border-radius: 15px;
+}
+.bg-bag{
+    background-color: #da70d6;
+    border-radius: 15px;
+}
+.bg-shoe{
+    background-color: #0000ff;
+    border-radius: 15px;
+}
